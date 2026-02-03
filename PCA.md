@@ -2,6 +2,7 @@
 
 > **A single, end-to-end README that combines theory, intuition, math, visuals (conceptually), advantages, limitations, and full Python implementations of PCA.**
 > Designed for **beginners → intermediate learners**, interview prep, and real-world ML usage.
+> for more detailed reference - https://www.analyticsvidhya.com/blog/2022/07/principal-component-analysis-beginner-friendly/
 
 ---
 
